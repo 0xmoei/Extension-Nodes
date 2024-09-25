@@ -5,7 +5,7 @@
 * I install the Nodes on all of my servers via Chromium
 
 # Nodes you can run
-* Dawn
+* [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
 * Gradient
 * Nodepay
 * Blockmesh
