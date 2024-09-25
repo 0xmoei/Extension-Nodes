@@ -10,7 +10,7 @@
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
 * [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
-* B[lockless (soon)](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockless-phase-3-soon)
+* [Blockless (soon)](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockless-phase-3-soon)
 
 #
 
