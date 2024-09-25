@@ -9,7 +9,7 @@
 * [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
-* Functor Network
+* [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
 * Blockless (soon)
 
 #
