@@ -48,6 +48,7 @@
 * $FUNC airdrop confirmed
 * Create account and Install Extension [here](https://node.securitylabs.xyz/?from=extension&type=signin&referralCode=cm1i9yz06es6aqi1bqs0mjsk4)
 * It needs a code to join: `cm1i9yz06es6aqi1bqs0mjsk4`
+* There is a daily Check-in
 
 #
 
