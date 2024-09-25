@@ -7,7 +7,7 @@
 # Nodes you can run
 * [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
 * [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
-* Nodepay
+* [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
 * Blockmesh
 * Functor Network
 * Blockless (soon)
