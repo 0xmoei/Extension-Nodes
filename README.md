@@ -11,7 +11,8 @@
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
 * [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
 * [Blockless (soon)](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockless-phase-3-soon)
-
+* Sepolia PoW Faucet
+* Holesky PoW Faucet
 #
 
 ### Dawn
@@ -27,6 +28,7 @@
 * Phase 1 Testnet Orchastrator is Exstension Node
 * Create account [here](https://app.gradient.network/signup?code=BY9XWK)
 * Install [Extension](https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)
+* Gradient might be incompatible with most of VPS IPs
 
 #
 
@@ -53,4 +55,23 @@
 #
 
 ### Blockless Phase 3 soon...
+
+#
+
+### Sepolia PoW Faucet
+https://sepolia-faucet.pk910.de/
+* You can mine $ETH Sepolia faucet
+* More gitcoin passport credit, more mining boost
+* 1 worker consumes 1 CPU core (Recommended to use only 1 worker)
+
+#
+
+### Holesky PoW Faucet
+https://holesky-faucet.pk910.de/
+* You can mine $ETH Holsky faucet
+* You mine more Holesky than Sepolia because of better hashrate
+* More gitcoin passport credit, more mining boost
+* 1 worker consumes 1 CPU core (Recommended to use only 1 worker)
+* Mine only one of Sepolia or Holesky faucets at the same time
+
 
