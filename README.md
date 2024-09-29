@@ -58,6 +58,15 @@
 
 #
 
+### Openlayer AI Network
+* Install Node Extension [here](https://openlayer.tech)
+* Invite codes: `BUYR2X` `47OLOU` `FFWLAH`
+* After Installing Extension, Connect twitter to get your ref code & new tasks
+* You can get invite codes in [Discord](https://discord.gg/openlayer)
+* Join Booster Program [here](https://openlayer.deform.cc/boost?referral=uE4ZgwUmctVa)
+
+#
+
 ### Sepolia PoW Faucet
 https://sepolia-faucet.pk910.de/
 * You can mine $ETH Sepolia faucet
