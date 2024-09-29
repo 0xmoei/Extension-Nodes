@@ -60,6 +60,7 @@
 #
 
 ### Openlayer AI Network
+* Backed by a16z
 * Install Node Extension [here](https://openlayer.tech)
 * Invite codes: `BUYR2X` `47OLOU` `FFWLAH`
 * After Installing Extension, Connect twitter to get your ref code & new tasks
