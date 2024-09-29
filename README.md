@@ -11,6 +11,7 @@
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
 * [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
 * [Blockless (soon)](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockless-phase-3-soon)
+* [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
 #
