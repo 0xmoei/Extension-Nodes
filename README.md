@@ -14,6 +14,17 @@
 * [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
+
+### Monitor VPS Recources
+**Install htop**
+```console
+sudo apt install htop
+```
+
+**Open htop**
+```
+htop
+```
 #
 
 ### Dawn
