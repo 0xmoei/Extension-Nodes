@@ -15,20 +15,6 @@
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
 
-### Monitor VPS Recources
-**Install htop**
-```console
-sudo apt install htop
-```
-
-**Open htop**
-```
-htop
-```
-* Now you can check the usage of CPU cores, Memory(RAM), swap RAM, and manage the live tasks on your VPS
-
-![Screenshot_2](https://github.com/user-attachments/assets/ae9c648f-3c94-43cb-ad5c-7fc324096c1c)
-
 #
 
 ### Dawn
@@ -99,5 +85,21 @@ https://holesky-faucet.pk910.de/
 * More gitcoin passport credit, more mining boost
 * 1 worker consumes 1 CPU core (Recommended to use only 1 worker)
 * Mine only one of Sepolia or Holesky faucets at the same time
+
+#
+
+### Monitor VPS Recources
+**Install htop**
+```console
+sudo apt install htop
+```
+
+**Open htop**
+```
+htop
+```
+* Now you can check the usage of CPU cores, Memory(RAM), swap RAM, and manage the live tasks on your VPS
+
+![Screenshot_2](https://github.com/user-attachments/assets/ae9c648f-3c94-43cb-ad5c-7fc324096c1c)
 
 
