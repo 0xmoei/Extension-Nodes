@@ -11,14 +11,13 @@
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
 * [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
-* [Blockless (soon)](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockless-phase-3-soon)
 * [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
 
 #
 
-### Bless Network
+### Bless Network (Formerly Blockless)
 * Raised $8M M31 Capital, $BLS is announced
 * Signup the [Dashboard](https://bless.network/dashboard?ref=JGTHFQ)
 * Install [Extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
@@ -73,10 +72,6 @@
 
 #
 
-### Blockless Phase 3 soon...
-
-#
-
 ### Openlayer AI Network
 * Backed by a16z
 * Install Node Extension [here](https://openlayer.tech)
@@ -104,7 +99,7 @@ https://holesky-faucet.pk910.de/
 
 #
 
-### Monitor VPS Recources
+### Monitor VPS Recources (if you are running a Linux VPS)
 **Install htop**
 ```console
 sudo apt install htop
