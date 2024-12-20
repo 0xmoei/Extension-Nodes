@@ -10,7 +10,7 @@
 * [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
-* Grass Season 2
+* [Grass Season 2](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#grass-season-ii)
 * [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
 * [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
