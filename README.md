@@ -5,7 +5,8 @@
 * I install the Nodes on all of my servers via Chromium
 
 # Nodes you can run
-* Bless Network
+* [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network)
+* [Pipe Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#pipe-network)
 * [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
 * [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
@@ -27,7 +28,9 @@
 #
 
 ### Pipe Network
+* Raised $10M led by Multicoincap with good names behind it
 * Signup once then Loging using the same credentials [here](https://pipecdn.app/)
+* Install [Extension](https://chromewebstore.google.com/detail/pipe-guardian-node/gelgmmdfajpefjbiaedgjkpekijhkgbe)
 
 #
 
