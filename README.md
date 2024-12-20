@@ -1,7 +1,7 @@
 # Extension Nodes
 
-* You can run your Exntesion Nodes on your Linux VPS by installing Chromium browser: [Install Chromium Browser on Linux VPS](https://github.com/0xmoei/Install-Linux-Browser)
-* Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==) like **Valentine Deals** or **AMD Ryzen 9 9950X Powered Virtual Private Server**
+* If you already have a Linux VPS, you can run extension node by installing Chromium browser: [Install Chromium Browser on Linux VPS](https://github.com/0xmoei/Install-Linux-Browser)
+* Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==). Options include: **Valentine Deals** or **AMD Ryzen 9 9950X Powered Virtual Private Server** -- Note that you can install Windows on these servers
 
 # Nodes you can run
 * [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network)
