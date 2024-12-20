@@ -5,6 +5,7 @@
 * I install the Nodes on all of my servers via Chromium
 
 # Nodes you can run
+* Bless Network
 * [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
 * [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
@@ -14,6 +15,19 @@
 * [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
+
+#
+
+### Bless Network
+* Raised $8M M31 Capital, $BLS is announced
+* Signup the [Dashboard](https://bless.network/dashboard?ref=JGTHFQ)
+* Install [Extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
+* Login to your account inside the extension to activate your node
+
+#
+
+### Pipe Network
+* Signup once then Loging using the same credentials [here](https://pipecdn.app/)
 
 #
 
@@ -45,6 +59,7 @@
 * Data Network in EclipseFND ecosystem
 * Create account [here](https://app.blockmesh.xyz/register?invite_code=e0af8150-f715-4b0c-b19b-de6c07b8f413)
 * Install [Extension](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
+* They might be incompatible with most of VPS IPs
 
 #
 
