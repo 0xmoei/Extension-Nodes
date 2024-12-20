@@ -10,6 +10,7 @@
 * [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
+* Grass Season 2
 * [Functor Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#functor-network)
 * [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
@@ -61,6 +62,14 @@
 * Create account [here](https://app.blockmesh.xyz/register?invite_code=e0af8150-f715-4b0c-b19b-de6c07b8f413)
 * Install [Extension](https://chromewebstore.google.com/detail/blockmesh-network/obfhoiefijlolgdmphcekifedagnkfjp)
 * They might be incompatible with most of VPS IPs
+
+#
+
+### Grass Season II
+* They distributed a good airdrop in season 1, so I keep running for season 2
+* Sign up [here](https://app.getgrass.io/register?referralCode=qFJ68N1i9CVz3GR)
+* Install [Grass Extension
+](https://chromewebstore.google.com/detail/grass-lite-node/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0)
 
 #
 
