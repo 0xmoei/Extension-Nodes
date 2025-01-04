@@ -4,6 +4,7 @@
 * Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==). Options include: **Valentine Deals** or **AMD Ryzen 9 9950X Powered Virtual Private Server** -- Note that you can install Windows on these servers
 
 # Nodes you can run
+* Teneo social miner
 * [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
 * [Pipe Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#pipe-network)
 * [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
@@ -15,6 +16,12 @@
 * [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
+
+#
+
+### Teneo
+* Install [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm?authuser=0&hl=en)
+* Use invite code to get boost: `GDhJF`
 
 #
 
