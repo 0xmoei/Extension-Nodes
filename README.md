@@ -4,7 +4,7 @@
 * Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==). Options include: **Valentine Deals** or **AMD Ryzen 9 9950X Powered Virtual Private Server** -- Note that you can install Windows on these servers
 
 # Nodes you can run
-* Teneo social miner
+* [Teneo social miner](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#teneo)
 * [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
 * [Pipe Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#pipe-network)
 * [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
