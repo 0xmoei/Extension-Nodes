@@ -4,6 +4,7 @@
 * Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==). Options include: **Valentine Deals** or **AMD Ryzen 9 9950X Powered Virtual Private Server** -- Note that you can install Windows on these servers
 
 # Nodes you can run
+* DeSpeed Validator
 * [Teneo social miner](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#teneo)
 * [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
 * [Pipe Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#pipe-network)
@@ -18,6 +19,15 @@
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
 
 #
+
+### DeSpeed Validator
+* Register [here
+](https://app.despeed.net/register?ref=lyZh8xOzItge)
+* Install [Extension](https://chromewebstore.google.com/detail/despeed-validator/ofpfdpleloiaaedjbfpocglfggbdpiem)
+* Make sure you complete Quests in the dashboard
+
+#
+
 
 ### Teneo
 * Install [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm?authuser=0&hl=en)
