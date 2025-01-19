@@ -25,6 +25,8 @@
 * Register [dashboard](https://app.mygate.network/login?code=MgaZin)
 * Install [Extension](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&pli=1)
 
+#
+
 ### DeSpeed Validator
 * Register [here
 ](https://app.despeed.net/register?ref=lyZh8xOzItge)
