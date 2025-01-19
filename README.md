@@ -20,6 +20,10 @@
 
 #
 
+### Mygate
+* Register [dashboard](https://app.mygate.network/login?code=MgaZin)
+* Install [Extension](https://chromewebstore.google.com/detail/mygate-network-node/hajiimgolngmlbglaoheacnejbnnmoco?hl=en&pli=1)
+
 ### DeSpeed Validator
 * Register [here
 ](https://app.despeed.net/register?ref=lyZh8xOzItge)
@@ -45,7 +49,7 @@
 
 ### Pipe Network
 * Raised $10M led by Multicoincap with good names behind it
-* Signup once then Loging using the same credentials [here](https://pipecdn.app/)
+* Signup once then Loging using the same credentials [here](https://pipecdn.app/signup?ref=c2xhcmsuY3)
 * Install [Extension](https://chromewebstore.google.com/detail/pipe-guardian-node/gelgmmdfajpefjbiaedgjkpekijhkgbe)
 
 #
