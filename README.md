@@ -4,15 +4,15 @@
 * Or you can buy a cheap server for $5/m from [Hostbrr](https://my.hostbrr.com/order/forms/a/NTMxNw==). Options include: **Valentine Deals** or **AMD Ryzen 9 9950X Powered Virtual Private Server** -- Note that you can install Windows on these servers
 
 # Nodes you can run
+* [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
+* [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
 * [Naoris Protocol](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#naoris-protocol)
 * [Minion Labs](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#minion-labs)
 * [Voltix CPU Worker](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#voltix-cpu-worker)
 * [MyGate Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#mygate)
 * [DeSpeed Validator](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#despeed-validator)
 * [Teneo social miner](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#teneo)
-* [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
 * [Pipe Network (Ended)](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#pipe-network)
-* [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
 * [Gradient](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#gradient)
 * [Nodepay](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#nodepay)
 * [Blockmesh](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#blockmesh)
@@ -21,6 +21,22 @@
 * [OpenlayerAI](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#openlayer-ai-network)
 * [Sepolia PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#sepolia-pow-faucet)
 * [Holesky PoW Faucet](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#holesky-pow-faucet)
+
+#
+
+### Dawn
+* Raised $18M
+* Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
+* Create account with Email and verify your Email
+* Invite Code: `0dhx2k`
+
+#
+
+### Bless Network (Formerly Blockless)
+* Raised $8M M31 Capital, $BLS is announced
+* Signup the [Dashboard](https://bless.network/dashboard?ref=JGTHFQ)
+* Install [Extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
+* Login to your account inside the extension to activate your node
 
 #
 
@@ -72,26 +88,10 @@
 
 #
 
-### Bless Network (Formerly Blockless)
-* Raised $8M M31 Capital, $BLS is announced
-* Signup the [Dashboard](https://bless.network/dashboard?ref=JGTHFQ)
-* Install [Extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
-* Login to your account inside the extension to activate your node
-
-#
-
 ### Pipe Network (Ended)
 * Raised $10M led by Multicoincap with good names behind it
 * Signup once then Loging using the same credentials [here](https://pipecdn.app/signup?ref=c2xhcmsuY3)
 * Install [Extension](https://chromewebstore.google.com/detail/pipe-guardian-node/gelgmmdfajpefjbiaedgjkpekijhkgbe)
-
-#
-
-### Dawn
-* Raised $18M
-* Install [Extension](https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp)
-* Create account with Email and verify your Email
-* Invite Code: `0dhx2k`
 
 #
 
