@@ -6,6 +6,7 @@
 # Nodes you can run
 * [Dawn](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#dawn)
 * [Bless Network](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#bless-network-formerly-blockless)
+* [Stork Oracle Verifier](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#stork-oracle-verifier)
 * [Naoris Protocol](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#naoris-protocol)
 * [Minion Labs](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#minion-labs)
 * [Voltix CPU Worker](https://github.com/0xmoei/Extension-Nodes/blob/main/README.md#voltix-cpu-worker)
@@ -37,6 +38,13 @@
 * Signup the [Dashboard](https://bless.network/dashboard?ref=JGTHFQ)
 * Install [Extension](https://chromewebstore.google.com/detail/bless/pljbjcehnhcnofmkdbjolghdcjnmekia)
 * Login to your account inside the extension to activate your node
+
+#
+
+### Stork Oracle Verifier
+* Raised $4M
+* Install [Extension](https://chromewebstore.google.com/detail/stork-verify/knnliglhgkmlblppdejchidfihjnockl)
+* Open Extension, Signup with your email and use invite code: `SFGALXM92N`
 
 #
 
