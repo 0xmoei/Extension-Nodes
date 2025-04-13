@@ -45,7 +45,7 @@
 ### Gradient
 * Raised an undisclosed fund by Big VCs: multicoincap, PanteraCapital ,and sequoia
 * Phase 1 Testnet Orchastrator is Exstension Node
-* Create account [here](https://app.gradient.network/signup?code=BY9XWK)
+* Create account [here](https://app.gradient.network/)
 * Install [Extension](https://chromewebstore.google.com/detail/gradient-sentry-node/caacbgbklghmpodbdafajbgdnegacfmo)
 * Incompatible VPS IPs, Use [Proxy](https://github.com/0xmoei/Install-Chromium-Linux-Browser/blob/main/README.md#install-proxy-on-chromium).
 
