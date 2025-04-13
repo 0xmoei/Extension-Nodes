@@ -28,7 +28,7 @@
 #
 
 ### Openledger
-* Register [Dashboard](https://testnet.openledger.xyz/?referral_code=bdqbx4mw44)
+* Register [Dashboard](https://testnet.openledger.xyz)
 * Download [Extension](https://chromewebstore.google.com/detail/openledger-node/ekbbplmjjgoobhdlffmgeokalelnmjjc)
 * Max 1 Extension Node and 2 Mobile nodes allowed each account.
 
